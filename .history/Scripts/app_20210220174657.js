@@ -198,6 +198,8 @@
             </tr>`;
 
             contactIndex++;
+
+            console.log(contactData);
           }
         }
       });
