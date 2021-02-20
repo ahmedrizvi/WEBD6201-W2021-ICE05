@@ -1,0 +1,10 @@
+{
+    "contacts":
+    [
+        {
+            "FullName":"Tony Stark",
+            "ContactNumber":"6477715821",
+            "EmailAddress":"ironman@example.com"
+        }
+    ]
+}

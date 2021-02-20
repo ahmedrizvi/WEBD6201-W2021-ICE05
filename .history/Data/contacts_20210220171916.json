@@ -1,0 +1,15 @@
+{
+    "contacts":
+    [
+        {
+            "FullName":"Tony Stark",
+            "ContactNumber":"6477715821",
+            "EmailAddress":"ironman@example.com"
+        },
+        {
+            "FullName":"Bruce Banner",
+            "ContactNumber":"6476654210",
+            "EmailAddress":"thehulk@example.com"
+        }
+    ]
+}
